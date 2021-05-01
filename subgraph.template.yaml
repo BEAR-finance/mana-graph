@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: Decentraland collections
-repository: https://github.com/decentraland/collections-graph
+repository: https://github.com/BEAR-finance/mana-graph
 schema:
   file: ./schema.graphql
 dataSources:
